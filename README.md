@@ -8,12 +8,3 @@ Install LM Studio `https://lmstudio.ai/`
 
 Download a model and start an inference server via the `Local Server` tab.
 
-Install Python dependencies with `pip insall requirements.txt`
-
-### Running
-
-#### Python 
-
-TODO
-
-
