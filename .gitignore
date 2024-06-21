@@ -1,0 +1,4 @@
+env/
+configuration/__pycache__
+context/__pycache__
+config.json

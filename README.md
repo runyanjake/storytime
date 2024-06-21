@@ -1,10 +1,20 @@
-# Storytime
+# Storytime (Python)
 
-A case study in programmatic LLM prompt generation, practice with prompt engineering.
+An LLM-powered story generator.
 
-### Setup
+## Setup
 
-Install LM Studio `https://lmstudio.ai/`
+### LLM Setup
 
-Download a model and start an inference server via the `Local Server` tab.
+Install LM Studio: `https://lmstudio.ai/`
+
+Find a good model and install it. 
+
+When running the server, note Server Port and Cross-Origin-Resource-Sharing settings.
+
+### Environment Setup
+
+Create python env: `python3.12 -m venv env`, `source env/bin/activate`
+
+Install python dependencies `pip install -r requirements.txt`.
 
